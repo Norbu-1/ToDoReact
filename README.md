@@ -1,5 +1,5 @@
 # React + Vite
-## installation React in vscode
+##  React installation in vscode
 ### run command
 - npm create vite@latest
 - cd my-project
